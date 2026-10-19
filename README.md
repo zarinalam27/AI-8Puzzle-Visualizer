@@ -73,9 +73,15 @@ Here, `b` is the branching factor and `d` is the depth of the shallowest solutio
 - Bootstrap documentation: https://getbootstrap.com/docs/
 - MDN JavaScript guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
-## Academic note
-The assigned algorithm is IDDLS. If the instructor requires a comparison of all algorithms, implement and measure each algorithm separately rather than presenting invented performance figures. The current application reports measured browser results for IDDLS only.
+## Search Algorithms Implemented
+The assigned algorithm is IDDLS. The assigned search algorithm, implemented from scratch in JavaScript.
+It repeatedly performs depth-limited searches with increasing depth limits until the goal is found or the maximum depth is reached..
 
+## Heuristics Used
+
+IDDLS is an uninformed search algorithm and does not use a heuristic
+function to estimate the distance to the goal state. It searches by
+increasing the depth limit iteratively.
 
 ## Technologies used
 
