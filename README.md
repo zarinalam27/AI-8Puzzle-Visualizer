@@ -56,7 +56,17 @@ Here, `b` is the branching factor and `d` is the depth of the shallowest solutio
 6. Wait for GitHub Pages to publish the site. Copy the URL displayed in Settings → Pages into your assignment submission and this README.
 
 ## Screenshots
-Add screenshots of the home page, puzzle solver, solution path, and summary here before submission.
+<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/486d3d6c-f03a-4d49-95dc-8059dfb0981c" />
+<img width="959" height="530" alt="image" src="https://github.com/user-attachments/assets/3b64b95c-e059-4264-860c-9a82765dcfe9" />
+<img width="959" height="530" alt="image" src="https://github.com/user-attachments/assets/88179c91-470c-4e9b-91ee-901555c2057e" />
+<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/536ed1aa-6569-432a-a72f-192e160c09a6" />
+<img width="959" height="526" alt="image" src="https://github.com/user-attachments/assets/ac299c84-fe83-412a-8571-47e0781d12b5" />
+<img width="959" height="532" alt="image" src="https://github.com/user-attachments/assets/9edb7b8c-4d18-4f8c-96fb-7d5d42f4b96e" />
+<img width="959" height="531" alt="image" src="https://github.com/user-attachments/assets/30d8f58d-93f7-4a49-88df-8f14e6bcc7fc" />
+<img width="959" height="524" alt="image" src="https://github.com/user-attachments/assets/e9c6dda3-98e5-403d-9925-08dc3558afaa" />
+<img width="959" height="529" alt="image" src="https://github.com/user-attachments/assets/9410763a-c09c-416b-a99c-6e7c498cf0a5" />
+<img width="959" height="527" alt="image" src="https://github.com/user-attachments/assets/0f06ff98-0587-497a-829c-72a226c21961" />
+
 
 ## References
 - Russell, S. and Norvig, P., *Artificial Intelligence: A Modern Approach*.
