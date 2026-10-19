@@ -67,6 +67,8 @@ Here, `b` is the branching factor and `d` is the depth of the shallowest solutio
 <img width="959" height="529" alt="image" src="https://github.com/user-attachments/assets/9410763a-c09c-416b-a99c-6e7c498cf0a5" />
 <img width="959" height="527" alt="image" src="https://github.com/user-attachments/assets/0f06ff98-0587-497a-829c-72a226c21961" />
 
+## GitHub Pages URL
+https://zarinalam27.github.io/AI-8Puzzle-Visualizer/
 
 ## References
 - Russell, S. and Norvig, P., *Artificial Intelligence: A Modern Approach*.
