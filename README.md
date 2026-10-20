@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/4935f4d9-d5bb-4555-8c25-a82f270dada4
+
 # AI 8-Puzzle Visualizer — IDDLS
 
 An interactive web application for the Artificial Intelligence Digital Assignment. It solves the 8-puzzle using **Iterative Deepening Depth-Limited Search (IDDLS)** and visualizes the resulting solution path.
@@ -102,6 +106,6 @@ React, Vue, and Angular are alternative UI frameworks. This project intentionall
 
 ## Project Demo
 
-<video src="8puzzlevid-compressed-1-uivgwciz-1_Nk6LJ5xt.mp4" controls width="100%">
-  Your browser does not support the video tag. You can <a href="8puzzlevid-compressed-1-uivgwciz-1_Nk6LJ5xt.mp4">download the video here</a> instead.
-</video>
+https://github.com/user-attachments/assets/75dca28a-9d41-4744-8178-1b8023a7a343
+
+
