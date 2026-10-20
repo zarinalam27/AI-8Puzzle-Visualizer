@@ -99,3 +99,9 @@ increasing the depth limit iteratively.
 - **D3.js:** creates a data-driven chart comparing generated and expanded nodes by iteration.
 
 React, Vue, and Angular are alternative UI frameworks. This project intentionally uses Bootstrap with vanilla JavaScript rather than mixing multiple competing UI frameworks.
+
+## Project Demo
+
+<video src="./8puzzlevid-compressed-1-uivgwciz-1_Nk6LJ5xt.mp4" controls width="100%" poster="https://github.com">
+  Your browser does not support the video tag. You can <a href="./8puzzlevid-compressed-1-uivgwciz-1_Nk6LJ5xt.mp4">download the video here</a> instead.
+</video>
