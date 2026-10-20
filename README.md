@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/4935f4d9-d5bb-4555-8c25-a82f270dada4
-
 # AI 8-Puzzle Visualizer — IDDLS
 
 An interactive web application for the Artificial Intelligence Digital Assignment. It solves the 8-puzzle using **Iterative Deepening Depth-Limited Search (IDDLS)** and visualizes the resulting solution path.
